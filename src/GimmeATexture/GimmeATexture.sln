@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GimmeATexture", "GimmeATexture\GimmeATexture.csproj", "{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}.Debug|iPhone.Build.0 = Debug|iPhone
+		{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}.Release|iPhone.ActiveCfg = Release|iPhone
+		{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}.Release|iPhone.Build.0 = Release|iPhone
+		{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{471EB976-0C6E-4634-A181-4F8C9AFFA8A4}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GimmeATexture\GimmeATexture.csproj
+	EndGlobalSection
+EndGlobal
