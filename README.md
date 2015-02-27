@@ -1,4 +1,4 @@
 SpriteKitAdventures
 ===================
 
-Examples and Idea using SpriteKit
+Examples and Ideas using SpriteKit
